@@ -1,1 +1,5 @@
-Lyrex | C | C# | C++ | .NET | PYTHON |
+# I work on C++ and C#
+
+
+
+# Lexa он был здесь
